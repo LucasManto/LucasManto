@@ -4,7 +4,7 @@ Software developer [@MercadoLivre](https://github.com/mercadolibre) working most
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmanto&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmanto&hide=stars,issues&count_private=true&theme=dark&hide_title=true&include_all_commits=true&show_icons=true">
 </p>
 <br>
 
