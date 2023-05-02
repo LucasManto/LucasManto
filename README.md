@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas 👋
 
-Software developer [@MercadoLivre](https://github.com/mercadolibre) working mostly with Java and Javascript/Typescript and Java.
+Software developer [@MercadoLivre](https://github.com/mercadolibre) working mostly with Java, Javascript/Typescript and Golang.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasmanto&hide=stars,issues&count_private=true&theme=dark&hide_title=true&include_all_commits=true&show_icons=true&hide_border=true">
